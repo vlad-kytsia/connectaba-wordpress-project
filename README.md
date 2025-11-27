@@ -10,6 +10,20 @@ https://connectaba.org/
 
 ---
 
+## 📸 Preview
+➡️ [Homepage Screenshot](./screenshots/homepage-first-screen.png)
+
+---
+
+## 🎥 Demo Video
+The demo video shows page interactions, animations, and mobile responsiveness.
+
+➡️ [Demo Video](./demo-video/ConnectABA.mp4)
+
+---
+
+---
+
 ## 🧑‍💻 My Role
 - Front-End Developer  
 - WordPress Developer  
