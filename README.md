@@ -74,7 +74,7 @@ This repository contains:
 
 ---
 
-## 🎨 Figma Design (optional)
+## 🎨 Figma Design 
 The original design can be provided if needed.
 
 ---
