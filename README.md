@@ -22,15 +22,6 @@ The demo video shows page interactions, animations, and mobile responsiveness.
 
 ---
 
----
-
-## 🧑‍💻 My Role
-- Front-End Developer  
-- WordPress Developer  
-- Figma to WordPress Specialist  
-
----
-
 ## 📝 Project Description
 Based on the provided Figma design, I created a full HTML/CSS/JS template and then integrated it into CMS WordPress by developing a custom theme.
 
@@ -80,7 +71,6 @@ The full project took approximately **two weeks**.
 ## 📂 Included Files
 This repository contains:
 - Key theme files created for the WordPress build  
-- Front-end source files (HTML/CSS/JS)  
 - Screenshots of the website  
 - Demo video 
 
